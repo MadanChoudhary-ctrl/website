@@ -1,0 +1,14 @@
+@media only screen and (max-width: 1000px)
+{
+    section .container{
+        position: relative;
+        min-width: 600px;
+        flex-direction: column-reverse;
+    }
+    section .container{
+        margin-right: 7px;
+    }
+    section.container .contactform{
+        padding: 300px 36.667px;
+    }
+}
